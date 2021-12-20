@@ -1,0 +1,13 @@
+1640023725102:  INFO - (VcmpPluginInit) VC:MP Java integration plugin loading...
+1640023725125:  INFO - (JavaCore::LoadLibraryFunctions) Java VM library loaded.
+1640023725126:  INFO - (JavaCore::LoadLibraryFunctions) Java VM library functions loaded.
+1640023725126:  INFO - (JavaCore::SetupJVMArguments) Java VM settings initialized.
+1640023725246:  INFO - (JavaCore::CreateJVM) Java VM created.
+1640023725246:  INFO - (JavaCore::AttachThreadToJVM) Server thread attached to VM.
+1640023725273:  INFO - (JavaCore::SeedClasses) Starting script context.
+1640023725330:  INFO - (JavaEntityPool::BindToClass) Loaded entity pool of com/maxorator/vcmp/java/plugin/integration/player/PlayerImpl.
+1640023725330:  INFO - (JavaEntityPool::BindToClass) Loaded entity pool of com/maxorator/vcmp/java/plugin/integration/vehicle/VehicleImpl.
+1640023725330:  INFO - (JavaEntityPool::BindToClass) Loaded entity pool of com/maxorator/vcmp/java/plugin/integration/placeable/CheckPointImpl.
+1640023725331:  INFO - (JavaEntityPool::BindToClass) Loaded entity pool of com/maxorator/vcmp/java/plugin/integration/placeable/GameObjectImpl.
+1640023725331:  INFO - (JavaEntityPool::BindToClass) Loaded entity pool of com/maxorator/vcmp/java/plugin/integration/placeable/PickupImpl.
+1640023725533:  INFO - (JavaEventHandler::OnServerInitialise) Server initialised, scripts loaded.
